@@ -9,8 +9,7 @@
  
  To execute these codes commands used were:- 
  
- gcc filename.c -o myexe 
- myexe
+ node filename.js
 
 └── Assignment
     └── Assignment_05
