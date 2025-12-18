@@ -1,4 +1,4 @@
-Assignment 6
+# Assignment 6
 
 This folder contains all the warmup programs. Each program performs the following tasks:
 
