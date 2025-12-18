@@ -1,6 +1,6 @@
 # Assignment 6
 
-This folder contains all the warmup programs. Each program performs the following tasks:
+This folder contains all the warmup programs. Each program performs the following tasks: 
 
 program6_1.js – Takes a name as input from the user and displays it on the screen
 
