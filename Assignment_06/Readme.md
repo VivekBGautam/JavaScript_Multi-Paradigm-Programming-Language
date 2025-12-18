@@ -9,7 +9,7 @@ program6_2.js – Checks whether the given number is greater than 100 or not
 program6_3.js – Checks whether the given number is greater than 100 or not (second variation)
 
 program6_4.js – Multiplies three numbers and handles the case where any number is zero
-
+ 
 program6_5.js – Calculates percentage using total marks and obtained marks
 
 How to Execute the Programs 
