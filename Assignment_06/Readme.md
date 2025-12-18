@@ -12,7 +12,7 @@ program6_4.js – Multiplies three numbers and handles the case where any number
 
 program6_5.js – Calculates percentage using total marks and obtained marks
 
-How to Execute the Programs
+How to Execute the Programs 
 
 Use the following commands in the terminal to compile and execute the .js files:
 
